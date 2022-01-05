@@ -5,6 +5,8 @@ Git is a free and open source distributed version control software design to han
 
 ## 1.1 How I Learnt about GIT today.
 
+I have watched a [youtube video](https://youtu.be/NcoBAfJ6l2Q) on GIT and followed the main git page.
+
 ### **Installing GIT on Ubuntu**
 Open a Terminal and run the below commands to install git.
 
